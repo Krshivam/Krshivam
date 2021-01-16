@@ -1,5 +1,4 @@
-### Hi there 👋 I am Shivam final Year BS-MS student at IISER Mohali
-- 🔭 I’m currently working on my backend skills.
+### Hi there 👋 I am Shivam
 - My personal portfolio http://shivamsportfolio.herokuapp.com/
 <!--
 **Krshivam/Krshivam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
