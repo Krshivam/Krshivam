@@ -1,5 +1,4 @@
-### Hi there 👋 I am Shivam
-- My personal portfolio http://shivamsportfolio.herokuapp.com/
+### Hi there 👋 I am Shivam welcome to my gihub profile.
 <!--
 **Krshivam/Krshivam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
