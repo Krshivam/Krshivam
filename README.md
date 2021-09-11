@@ -1,4 +1,4 @@
-### Hi there 👋 I am Shivam welcome to my gihub profile.
+### Hi there 👋 I am Shivam welcome to my github profile.
 <!--
 **Krshivam/Krshivam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
